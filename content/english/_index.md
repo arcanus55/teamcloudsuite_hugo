@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
+  title: "test ests"
   button: "Download The Theme"
   button_link: "#!"
   image: "images/banner-app.png"
